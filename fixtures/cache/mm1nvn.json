@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cache-1",
+    "name": "erin",
+    "status": "active",
+    "score": 54
+  },
+  {
+    "id": "cache-2",
+    "name": "grace",
+    "status": "pending",
+    "score": 62
+  },
+  {
+    "id": "cache-3",
+    "name": "frank",
+    "status": "archived",
+    "score": 31
+  },
+  {
+    "id": "cache-4",
+    "name": "carol",
+    "status": "active",
+    "score": 24
+  },
+  {
+    "id": "cache-5",
+    "name": "erin",
+    "status": "archived",
+    "score": 78
+  },
+  {
+    "id": "cache-6",
+    "name": "dave",
+    "status": "active",
+    "score": 27
+  }
+]
